@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi, I'm Ed O'Connor and I'm attending Tech Elevator Full Time Bootcamp this July - October 2024!
+I'm coming into Tech Elevator with an abundance of front end knowledge with skills in, HTML, CSS, JavaScript, ReactJs and quite a few more!
+I'm excited to get the Full Stack Experience through Tech Elevator to expand on many of my side projects and get started in the industry!
