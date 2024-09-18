@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ejoc1103/ejoc1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi, I'm Ed O'Connor and I'm attending Tech Elevator Full Time Bootcamp this July - October 2024!
+# Hi, I'm Ed O'Connor and I'm attending Tech Elevator Full Time Bootcamp this July - October 2024!
+
 ### I'm coming into Tech Elevator with an abundance of front end knowledge with skills in, HTML, CSS, JavaScript, ReactJs and quite a few more!
 ### I'm excited to get the Full Stack Experience through Tech Elevator to expand on many of my side projects and get started in the industry!
+
+## My skills by the end of Tech Elevator Will Include
+### Java | PostgreSQL | JSON | Spring Boot | Restful APIs | JavaScript | HTML & CSS | Vue.js | Unit Testing (JUnit) | Git | 
+### IntelliJ & VSCode | SQL | E/R diagrams | Agile | Responsive Web Design | React.js | NextJs | GraphQl | Python | 
+### Bootstrap | MongoDB | JDBC | Integration Testing
+
