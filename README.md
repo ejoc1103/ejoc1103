@@ -18,7 +18,5 @@ Here are some ideas to get you started:
 ### I'm excited to get the Full Stack Experience through Tech Elevator to expand on many of my side projects and get started in the industry!
 
 ## My skills by the end of Tech Elevator Will Include
-### Java | PostgreSQL | JSON | Spring Boot | Restful APIs | JavaScript | HTML & CSS | Vue.js | Unit Testing (JUnit) | Git | 
-### IntelliJ & VSCode | SQL | E/R diagrams | Agile | Responsive Web Design | React.js | NextJs | GraphQl | Python | 
-### Bootstrap | MongoDB | JDBC | Integration Testing
+### Java | PostgreSQL | JSON | Spring Boot | Restful APIs | JavaScript | HTML & CSS | Vue.js | Unit Testing (JUnit) | Git | IntelliJ & VSCode | SQL | E/R diagrams | Agile | Responsive Web Design | React.js | NextJs | GraphQl | Python | Bootstrap | MongoDB | JDBC | Integration Testing
 
