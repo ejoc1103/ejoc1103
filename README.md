@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hi, I'm Ed O'Connor and I'm attending Tech Elevator Full Time Bootcamp this July - October 2024!
 
 ### I'm coming into Tech Elevator with an abundance of front end knowledge with skills in, HTML, CSS, JavaScript, ReactJs and quite a few more!
-### I'm excited to get the Full Stack Experience through Tech Elevator to expand on many of my side projects and get started in the industry!
+### I'm excited to get the Full Stack Experience through Tech Elevator to really dig into back end and gain new knowledge and perspectives on writing code!
 
 ## My Skills
 ### Java | PostgreSQL | JSON | Spring Boot | Restful APIs | JavaScript | HTML & CSS | Vue.js | Unit Testing (JUnit) | Git | IntelliJ & VSCode | SQL | E/R diagrams | Agile | Responsive Web Design | React.js | NextJs | GraphQl | Python | Bootstrap | MongoDB | JDBC | Integration Testing
