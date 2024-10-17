@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Ed O'Connor and I recently graduated Tech Elevator in early October 2024!
 
-### I'm came into Tech Elevator with an abundance of front end knowledge. Skills like HTML, CSS, JavaScript, ReactJs and quite a few more!
+### I came into Tech Elevator with an abundance of front end knowledge. Skills like HTML, CSS, JavaScript, ReactJs and quite a few more!
 ### I loved the Full Stack experience at Tech Elevator! It was great to really dig into back end as well as learning a new frame work with Vue.js.  
 ### Tech Elevator provided me with a ton of new skills like Java, SQL, Vue.js as well as giving me great new perspectives on writing code!
+### Now I'm excited to get started in my first Developer Role and learn even more!
 
 ## My Skills
 ### Java | PostgreSQL | JSON | Spring Boot | Restful APIs | JavaScript | HTML & CSS | Vue.js | Unit Testing (JUnit) | Git | IntelliJ & VSCode | SQL | E/R diagrams | Agile | Responsive Web Design | React.js | NextJs | GraphQl | Python | Bootstrap | MongoDB | JDBC | Integration Testing
